@@ -1,2 +1,37 @@
-# sorteio-amigo-secreto-ONE
-challenge do amigo secreto
+
+# Sorteio de Amigo Secreto 🎁
+
+Um projeto para sortear amigos secretos de forma aleatória e justa e tornar a troca de preentes divertida! Desenvolvido com HTML, CSS e JavaScript.
+
+## 🚀 Como Usar
+
+1. Acesse o projeto online: [https://fsaraujo01.github.io/sorteio-amigo-secreto-ONE/](https://fsaraujo01.github.io/sorteio-amigo-secreto-ONE/).
+2. Adicione os nomes dos participantes no campo de texto e clique em "Adicionar".
+3. Após adicionar pelo menos 3 nomes, clique em "Sortear" para ver o resultado.
+4. O sistema sorteará um nome por vez, exibindo a ordem numérica (1º, 2º, 3º, etc.).
+5. Após todos os nomes serem sorteados, o jogo será reiniciado automaticamente.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML**: Estrutura da página.
+- **CSS**: Estilização e design responsivo.
+- **JavaScript**: Lógica do sorteio e interatividade.
+
+## 📁 Estrutura do Projeto
+sorteio-amigo-secreto-ONE/
+│
+├── index.html # Página principal do projeto
+├── style.css # Estilos CSS
+├── app.js # Lógica JavaScript
+└── assets/ # Pasta para imagens ou outros recursos
+├── imagem1.png # imagem utilizada no projeto
+└── imagem2.png # imagem utilizada no projeto
+
+
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Desenvolvido por [Fernanda Araujo](https://github.com/fsaraujo01).
