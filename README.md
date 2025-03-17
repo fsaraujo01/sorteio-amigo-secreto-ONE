@@ -1,7 +1,7 @@
 
 # Sorteio de Amigo Secreto 🎁
 
-Um projeto para sortear amigos secretos de forma aleatória e justa e tornar a troca de preentes divertida! Desenvolvido com HTML, CSS e JavaScript.
+Um projeto para sortear amigos secretos de forma aleatória e justa e tornar a troca de presentes divertida! Desenvolvido com HTML, CSS e JavaScript.
 
 ## 🚀 Como Usar
 
@@ -16,22 +16,33 @@ Um projeto para sortear amigos secretos de forma aleatória e justa e tornar a t
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização e design responsivo.
 - **JavaScript**: Lógica do sorteio e interatividade.
+ 
+ ## 📁 Estrutura do Projeto   
 
-## 📁 Estrutura do Projeto
 sorteio-amigo-secreto-ONE/
 │
-├── index.html # Página principal do projeto
-├── style.css # Estilos CSS
-├── app.js # Lógica JavaScript
-└── assets/ # Pasta para imagens ou outros recursos
-├── imagem1.png # imagem utilizada no projeto
-└── imagem2.png # imagem utilizada no projeto
+├── index.html  # Página principal do projeto
+├── style.css   # Estilos CSS
+├── app.js      # Lógica JavaScript
+└── assets/     # Pasta para imagens ou outros recursos
+    ├── imagem1.png
+    └── imagem2.png
+
+
+
 
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).  
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
 ---
 
-Desenvolvido por [Fernanda Araujo](https://github.com/fsaraujo01).
+Desenvolvido por [Fernanda Araujo]   
+
+[Foto do Desenvolvedor](assets/dev-fernanda.png)
+
+(https://github.com/fsaraujo01).
+
