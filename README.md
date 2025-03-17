@@ -35,14 +35,15 @@ sorteio-amigo-secreto-ONE/
 ## 📝 Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).  
-Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
 
 
 ---
+## 👩‍💻 Desenvolvido por [Fernanda Araujo](https://github.com/fsaraujo01)
 
-Desenvolvido por [Fernanda Araujo]   
+### 📸 Foto do Desenvolvedor
+![Foto do Desenvolvedor](assets/dev-fernanda.png)
 
-[Foto do Desenvolvedor](assets/dev-fernanda.png)
 
-(https://github.com/fsaraujo01).
 
