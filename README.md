@@ -17,17 +17,28 @@ Um projeto para sortear amigos secretos de forma aleatória e justa e tornar a t
 - **CSS**: Estilização e design responsivo.
 - **JavaScript**: Lógica do sorteio e interatividade.
  
- ## 📁 Estrutura do Projeto   
 
-sorteio-amigo-secreto-ONE/
-│
-├── index.html  # Página principal do projeto
-├── style.css   # Estilos CSS
-├── app.js      # Lógica JavaScript
-└── assets/     # Pasta para imagens ou outros recursos
-    ├── imagem1.png
-    └── imagem2.png
+## 📁 Estrutura do Projeto
 
+O projeto **sorteio-amigo-secreto-ONE** contém os seguintes arquivos e pastas:
+
+- **index.html**  
+  Página principal do projeto.
+
+- **style.css**  
+  Contém os estilos do projeto (CSS).
+
+- **app.js**  
+  Responsável pela lógica do JavaScript.
+
+- **assets/**  
+  Pasta onde ficam as imagens e outros recursos.
+
+  - **imagem1.png**  
+    Imagem 1.
+
+  - **imagem2.png**  
+    Imagem 2.
 
 
 
