@@ -40,10 +40,11 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 
 
 ---
+
 ## 👩‍💻 Desenvolvido por [Fernanda Araujo](https://github.com/fsaraujo01)
 
 ### 📸 Foto do Desenvolvedor
-![Foto do Desenvolvedor](assets/dev-fernanda.png)
+<img src="assets/dev-fernanda.png" alt="Foto do Desenvolvedor" width="120"/>
 
 
 
